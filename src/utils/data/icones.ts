@@ -235,7 +235,7 @@ export const icones = {
       id: "AppIcon_Community_Shapes",
       name: "Formes",
       icon: require("../../../assets/icon/community_shapes.png"),
-      author: "avrgfrnchguy",
+      author: "seqyu.",
       isVariable: false,
       isSpecial: false,
       isPremium: false,
